@@ -455,7 +455,7 @@
   height: 42px;
   background-color: #485C11;
   text-align: center;
-  align-content: center;
+  padding-top: 8px;
   border-radius: 20px;
 }
 .connect-btn a {
