@@ -1,0 +1,29 @@
+$black-color:#000000;
+$grey-color: #929292;
+$divider-color: #E9E9E9;
+$back-color: #FFFFFF;
+$assent-color:#DFECC6;
+$assent-color-two:#8E9C78;
+$assent-green:#485C11;
+$text-paragrapf:#6F6F6F;
+$dm-text:'Dm-Sans' , sans-serif;
+$crimsom-text: 'Crimsom' , sans-serif;
+$roboto-mono:'Roboto Mono' , sans-serif;
+
+
+
+@font-face {
+    font-family: 'Dm-Sans';
+    src: url(/fonts/DMSans-Medium.ttf);
+}
+
+
+@font-face {
+    font-family: 'Crimson';
+    src: url(/fonts/CrimsonText-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'Roboto Mono';
+    src: url(/fonts/RobotoMono-Regular.ttf);
+}
